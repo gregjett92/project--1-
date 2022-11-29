@@ -16,3 +16,4 @@ const page = (
 )
 
 // ReactDOM.render(page, document.getElementById("root"))
+ReactDOM.createRoot(document.getElementById("root")).render(navbar)
